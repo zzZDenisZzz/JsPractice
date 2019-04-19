@@ -1,0 +1,2 @@
+# JsPractice
+Simple tasks
